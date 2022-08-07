@@ -2,7 +2,7 @@
 
 # Baek Geonwoo
 Hi there! Welcome to my Github!<br>
-I am a student studying computer science.<br>
+I am a student studying computer engineering.<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phlox3959)](https://solved.ac/phlox3959/)
 
