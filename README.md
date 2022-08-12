@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKim-Ju-won%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaek-Geonwoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Baek Geonwoo
 Hi there! Welcome to my Github!<br>
@@ -7,7 +7,7 @@ I am a student studying computer engineering.<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phlox3959)](https://solved.ac/phlox3959/)
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering, 3th Grade
+- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 3th Grade
 
 ## 📫 How to reach me
 <a href="mailto:phlox3959@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -23,7 +23,7 @@ I am a student studying computer engineering.<br>
 - PNP Data Study ( 2022.03 ~ )
  
 ## 🔥 Experience
-- Team Leader of intermediate Algorithm Study in Coding Club Gnuvil [ 22.03~22.06 ]
+- Team Leader of intermediate Algorithm Study in Coding Club Gnuvil [22.03~22.06]
 
 ## 🏆 Awards
 - 17TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
