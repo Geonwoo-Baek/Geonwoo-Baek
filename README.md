@@ -20,9 +20,10 @@ I am a student studying computer engineering.<br>
 
 ## 🔭 I’m currently working on ...
 - HUFStudy ( 2022.06 ~ ) 
+- PNP Data Study ( 2022.03 ~ )
  
 ## 🔥 Experience
-- 
+- Team Leader of intermediate Algorithm Study in Coding Club Gnuvil [ 22.03~22.06 ]
 
 ## 🏆 Awards
 - 17TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
