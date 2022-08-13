@@ -27,7 +27,6 @@ I am a student studying computer engineering.<br>
 
 ## 🏆 Awards
 - 17TH TOPCIT TOP 10% Scorer in HUFS 2022 Summer
-- 
 
 ## 🛠 Skills
 <center>
