@@ -7,7 +7,7 @@ I am a student studying computer engineering.<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phlox3959)](https://solved.ac/phlox3959/)
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 3th Grade
+- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 4th Grade
 
 ## 📫 How to reach me
 <a href="mailto:phlox3959@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
