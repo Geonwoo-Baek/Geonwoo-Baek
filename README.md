@@ -14,8 +14,11 @@ I am a student studying computer engineering.<br>
 <a href="https://velog.io/@phlox3959" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 
 ## 🔭 I’m currently working on ...
-- PNP Data Study ( 2022.03 ~ )
-- GDSC HUFS ( 2022.09 ~ )
+- PNP Data Study ( 2022.03 ~ 2024.08)
+- GDSC HUFS ( 2022.09 ~ 2024.08)
+- lahHAI(2023.08 ~ )<img width="564" height="225" alt="labHAI" src="https://github.com/user-attachments/assets/d3ba44bd-3dd4-4e6c-8188-9b6c82756ae6" />
+
+
  
 ## 🔥 Experience
 - Team Leader of intermediate Algorithm Study in Coding Club Gnuvil [2022.03~2022.06]
