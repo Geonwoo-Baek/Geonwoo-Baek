@@ -1,24 +1,24 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaek-Geonwoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Baek Geonwoo
+# Geonwoo Baek
 Hi there! Welcome to my Github!<br>
 I am a student studying computer engineering.<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phlox3959)](https://solved.ac/phlox3959/)
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 4th Grade
+- Hankuk University of Foreign Studies, Department of Computer Science and Engineering, Master Cource(3rd Semester)
 
 ## 📫 How to reach me
 <a href="mailto:phlox3959@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@phlox3959" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 
 ## 🔭 I’m currently working on ...
-- PNP Data Study ( 2022.03 ~ 2024.08)
-- GDSC HUFS ( 2022.09 ~ 2024.08)
 - lahHAI(2023.08 ~ )<img width="564" height="225" alt="labHAI" src="https://github.com/user-attachments/assets/d3ba44bd-3dd4-4e6c-8188-9b6c82756ae6" />
 
-
+## 🔭 I worked on ...
+- PNP Data Study ( 2022.03 ~ 2024.08)
+- GDSC HUFS ( 2022.09 ~ 2024.08)
  
 ## 🔥 Experience
 - Team Leader of intermediate Algorithm Study in Coding Club Gnuvil [2022.03~2022.06]
